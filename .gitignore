@@ -6,6 +6,9 @@
 
 # Ignore bundler config.
 /.bundle
+/vendor/bundle
+.DS_Store
+.gem/
 
 # Ignore all environment files.
 /.env*
