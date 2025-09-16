@@ -16,6 +16,9 @@ module Beyondcarbon
     # Common ones are `templates`, `generators`, or `middleware`, for example.
     config.autoload_lib(ignore: %w[assets tasks])
 
+    # Autoload classes from app/services (so EmploymentSample in services is available)
+    config.autoload_paths << Rails.root.join("app/services")
+
     # Configuration for the application, engines, and railties goes here.
     #
     # These settings can be overridden in specific environments using the files
