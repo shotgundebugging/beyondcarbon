@@ -1,0 +1,48 @@
+<div class="container" style="max-width: 1000px; margin: 1rem auto; padding: 0 1rem;">
+  <h1>Employment (sample)</h1>
+
+  <form data-controller="chart">
+    <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items: flex-end;">
+      <div>
+        <label for="region">Region</label><br>
+        <select id="region" name="region" data-chart-target="region" data-action="change->chart#onRegionChange">
+          <% @regions.each do |reg| %>
+            <option value="<%= reg %>" <%= 'selected' if reg == @region %>><%= reg %></option>
+          <% end %>
+        </select>
+      </div>
+
+      <div>
+        <label for="stressor">Stressor</label><br>
+        <select id="stressor" name="stressor" data-chart-target="stressor" data-action="change->chart#render">
+          <% @stressors.each do |s| %>
+            <option value="<%= s %>" <%= 'selected' if s == @stressor %>><%= s %></option>
+          <% end %>
+        </select>
+      </div>
+
+      <div>
+        <label for="topn">Top N sectors</label><br>
+        <input type="range" id="topn" name="topn" min="3" max="12" value="8"
+               data-chart-target="topn" data-action="input->chart#render">
+        <span id="topn_value" data-chart-target="topnValue">8</span>
+      </div>
+
+      <div>
+        <label for="sort">Sort</label><br>
+        <select id="sort" data-chart-target="sort" data-action="change->chart#render">
+          <option value="desc" selected>Value desc</option>
+          <option value="asc">Value asc</option>
+          <option value="alpha">Sector A→Z</option>
+        </select>
+      </div>
+
+    </div>
+
+    <div id="chart" style="margin-top: 1rem;"></div>
+
+    <script type="application/json" id="region-dataset" data-chart-target="dataset">
+      <%= raw @region_dataset.to_json %>
+    </script>
+  </form>
+</div>
