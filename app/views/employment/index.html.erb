@@ -7,7 +7,8 @@
         <label for="region">Region</label><br>
         <select id="region" name="region" data-chart-target="region" data-action="change->chart#onRegionChange">
           <% @regions.each do |reg| %>
-            <option value="<%= reg %>" <%= 'selected' if reg == @region %>><%= reg %></option>
+            <% label = @country_names[reg] || reg %>
+            <option value="<%= reg %>" <%= 'selected' if reg == @region %>><%= label %></option>
           <% end %>
         </select>
       </div>

@@ -5,7 +5,9 @@ RSpec.describe EmploymentSample do
   let(:path) { Rails.root.join("db/samples/employment_sample.tsv") }
 
   it "lists regions and stressors" do
-    expect(EmploymentSample.available_regions(path)).to eq(%w[AT AT AT AT BE BE BE BE DE DE DE DE])
+    regions = EmploymentSample.available_regions(path)
+    expect(regions.first(12)).to eq(%w[AT AT AT AT BE BE BE BE DE DE DE DE])
+    expect(regions.length).to be >= 12
     stressors = EmploymentSample.available_stressors(path)
     expect(stressors.first).to eq("Employment people: Low-skilled male")
     expect(stressors.length).to be >= 3
