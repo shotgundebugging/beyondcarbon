@@ -34,9 +34,11 @@ export default class extends Controller {
     const topN = parseInt(this.topnTarget.value, 10) || data.length
     data = data.slice(0, topN)
 
+    const regionLabel = this.regionTarget.selectedOptions?.[0]?.text || this.regionTarget.value
+
     const spec = {
       $schema: "https://vega.github.io/schema/vega-lite/v5.json",
-      title: `${stressor} — ${this.regionTarget.value}`,
+      title: `${stressor} — ${regionLabel}`,
       data: { values: data },
       width: 900,
       height: 400,
