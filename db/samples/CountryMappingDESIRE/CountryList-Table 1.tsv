@@ -1,0 +1,250 @@
+ISO2	ISO3	UN code	Name	continent	UN region	DESIRE region	DESIRE region name	DESIRE code	DESIRE Number	UN member	Official Country	Alternative ISO3	Alternative Name 1	Alternative Name 2	Alternative Name 3	Alternative Name 4	Alternative Name 5	Alternative Name 6	Alternative Name 7
+AF	AFG	4	Afghanistan	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+AL	ALB	8	Albania	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1								
+DZ	DZA	12	Algeria	Africa	Northern Africa	WF	RoW Africa	WF	48	1	1								
+AS	ASM	16	American Samoa	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0		American Samoa (US)						
+AD	AND	20	Andorra	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1	ADO							
+AO	AGO	24	Angola	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+AI	AIA	660	Anguilla	America	Caribbean	WL	RoW America	WL	46	0	0								
+AQ	ATA	-1	Antarctica	Antarctica		WA	RoW Asia and Pacific	WA	45	0	0								
+AG	ATG	28	Antigua and Barbuda	America	Caribbean	WL	RoW America	WL	46	1	1								
+AR	ARG	32	Argentina	America	South America	WL	RoW America	WL	46	1	1								
+AM	ARM	51	Armenia	Asia	Western Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+AW	ABW	533	Aruba	America	Caribbean	WL	RoW America	WL	46	0	1								
+AU	AUS	36	Australia	Oceania	Australia and New Zealand	WP	Asia and Pacific	AU	38	1	1								
+AT	AUT	40	Austria	Europe	Western Europe	WE	Europe	AT	1	1	1								
+AZ	AZE	31	Azerbaijan	Asia	Western Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+BS	BHS	44	"Bahamas, The"	America	Caribbean	WL	RoW America	WL	46	1	1		Bahamas						
+BH	BHR	48	Bahrain	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+BD	BGD	50	Bangladesh	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+BB	BRB	52	Barbados	America	Caribbean	WL	RoW America	WL	46	1	1								
+BY	BLR	112	Belarus	Europe	Eastern Europe	WE	RoW Europe	WE	47	1	1								
+BE	BEL	56	Belgium	Europe	Western Europe	WE	Europe	BE	2	1	1								
+BZ	BLZ	84	Belize	America	Central America	WL	RoW America	WL	46	1	1								
+BJ	BEN	204	Benin	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+BM	BMU	60	Bermuda	America	Northern America	WL	RoW America	WL	46	0	0								
+BT	BTN	64	Bhutan	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+BO	BOL	68	Bolivia	America	South America	WL	RoW America	WL	46	1	1		Bolivia (Plurinational State of)						
+	BES	535	"Bonaire, Saint Eustatius and Saba"	America	Caribbean	WL	RoW America	WL	46	0	0								
+BA	BIH	70	Bosnia and Herzegovina	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1		Bosnia and herzegowina	Bosnia Herzegovina					
+BW	BWA	72	Botswana	Africa	Southern Africa	WF	RoW Africa	WF	48	1	1								
+BV	BVT	-1	Bouvet Island	Antarctica		WA	RoW Asia and Pacific	WA	45	0	0		Bouvet Island (NO)	Bouvet island					
+BR	BRA	76	Brazil	America	South America	WL	America	BR	34	1	1								
+B1	BA1	-1	British Antarctic Territories	Antarctica		WA	RoW Asia and Pacific	WA	45	0	0								
+IO	IOT	-1	British Indian Ocean Territory	Asia		WA	RoW Asia and Pacific	WA	45	0	0		Br. Indian Ocean Terr.	British indian ocean territory					
+BN	BRN	96	Brunei Darussalam	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+BG	BGR	100	Bulgaria	Europe	Eastern Europe	WE	Europe	BG	3	1	1								
+BF	BFA	854	Burkina Faso	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+BI	BDI	108	Burundi	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+KH	KHM	116	Cambodia	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+CM	CMR	120	Cameroon	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+CA	CAN	124	Canada	America	Northern America	WL	America	CA	32	1	1								
+CV	CPV	132	Cape Verde	Africa	Western Africa	WF	RoW Africa	WF	48	1	1		Cabo Verde						
+KY	CYM	136	Cayman Islands	America	Caribbean	WL	RoW America	WL	46	0	0		Cayman Isds	Cayman islands					
+CF	CAF	140	Central African Republic	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1		Central African Rep.						
+TD	TCD	148	Chad	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+	CHI	830	Channel Islands	Europe	Northern Europe	WE	RoW Europe	WE	47	0	0								
+CL	CHL	152	Chile	America	South America	WL	RoW America	WL	46	1	1								
+CN	CHN	156	China	Asia	Eastern Asia	WA	Asia and Pacific	CN	31	1	1		People's Republic of China	"China, People's Republic of"					
+CX	CXR	-1	Christmas Island	Oceania		WP	RoW Asia and Pacific	WA	45	0	0		Christmas island	Christmas Isds					
+CC	CCK	-1	Cocos (Keeling) Islands	Asia		WA	RoW Asia and Pacific	WA	45	0	0		Cocos Isds	Cocos (keeling) islands					
+CO	COL	170	Colombia	America	South America	WL	RoW America	WL	46	1	1								
+KM	COM	174	Comoros	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+CD	COD	180	"Congo, Dem. Rep."	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1	ZAR	Democratic Republic of the Congo	Democratic Republic of Congo	Zaire	Dem. Rep. of the Congo	DR Congo	Congo (Democratic Republic of the)	D.R. of the Congo
+CG	COG	178	"Congo, Rep."	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1		Congo	Republic of the Congo	Congo-Brazzaville	Rep Congo			
+CK	COK	184	Cook Islands	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0		Cook Isds	Cook islands					
+CR	CRI	188	Costa Rica	America	Central America	WL	RoW America	WL	46	1	1	CRC							
+CI	CIV	384	Cote d'Ivoire	Africa	Western Africa	WF	RoW Africa	WF	48	1	1		CÃ´te d'Ivoire	Côte d'Ivoire	Côte d Ivoire				
+HR	HRV	191	Croatia	Europe	Southern Europe	WE	Europe	HR	13	1	1		Croatia (local name: hrvatska)						
+CU	CUB	192	Cuba	America	Caribbean	WL	RoW America	WL	46	1	1								
+CW	CUW	531	Curaçao	America	Caribbean	WL	RoW America	WL	46	0	1		Curacao						
+CY	CYP	196	Cyprus	Asia	Western Asia	WM	Middle East	CY	4	1	1								
+CZ	CZE	203	Czech Republic	Europe	Eastern Europe	WE	Europe	CZ	5	1	1		Czech Rep.						
+DK	DNK	208	Denmark	Europe	Northern Europe	WE	Europe	DK	7	1	1								
+DJ	DJI	262	Djibouti	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+DM	DMA	212	Dominica	America	Caribbean	WL	RoW America	WL	46	1	1								
+DO	DOM	214	Dominican Republic	America	Caribbean	WL	RoW America	WL	46	1	1		Dominican Rep.						
+EC	ECU	218	Ecuador	America	South America	WL	RoW America	WL	46	1	1								
+EG	EGY	818	"Egypt, Arab Rep."	Africa	Northern Africa	WM	RoW Middle East	WM	49	1	1		Egypt						
+SV	SLV	222	El Salvador	America	Central America	WL	RoW America	WL	46	1	1								
+GQ	GNQ	226	Equatorial Guinea	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+ER	ERI	232	Eritrea	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+EE	EST	233	Estonia	Europe	Northern Europe	WE	Europe	EE	8	1	1								
+ET	ETH	231	Ethiopia	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+FO	FRO	234	Faeroe Islands	Europe	Northern Europe	WE	RoW Europe	WE	47	0	0		Faeroe Isds	Faroe Islands					
+FK	FLK	238	Falkland Islands (Malvinas)	America	South America	WL	RoW America	WL	46	0	0		Falkland Isds (Malvinas)	Falkland islands (malvinas)					
+FJ	FJI	242	Fiji	Oceania	Melanesia	WP	RoW Asia and Pacific	WA	45	1	1		Fiji Islands						
+FI	FIN	246	Finland	Europe	Northern Europe	WE	Europe	FI	10	1	1								
+FR	FRA	250	France	Europe	Western Europe	WE	Europe	FR	11	1	1		France(+DOM TOM)						
+GF	GUF	254	French guiana	Amercia	South America	WL	RoW America	WL	46	0	0		French Guiana						
+PF	PYF	258	French Polynesia	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0		French polynesia						
+GA	GAB	266	Gabon	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+GM	GMB	270	"Gambia, The"	Africa	Western Africa	WF	RoW Africa	WF	48	1	1		Gambia						
+GE	GEO	268	Georgia	Asia	Western Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+DE	DEU	276	Germany	Europe	Western Europe	WE	Europe	DE	6	1	1								
+GH	GHA	288	Ghana	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+GI	GIB	292	Gibraltar	Europe	Southern Europe	WE	RoW Europe	WE	47	0	0								
+GR	GRC	300	Greece	Europe	Southern Europe	WE	Europe	GR	12	1	1								
+GL	GRL	304	Greenland	America	Northern America	WL	RoW America	WL	46	0	0								
+GD	GRD	308	Grenada	America	Caribbean	WL	RoW America	WL	46	1	1								
+GP	GLP	312	Guadeloupe	America	Caribbean	WL	RoW America	WL	46	0	0								
+GU	GUM	316	Guam	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	0	0		Guam (US)						
+GT	GTM	320	Guatemala	America	Central America	WL	RoW America	WL	46	1	1								
+GN	GIN	324	Guinea	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+GW	GNB	624	Guinea-Bissau	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+GY	GUY	328	Guyana	America	South America	WL	RoW America	WL	46	1	1								
+HT	HTI	332	Haiti	America	Caribbean	WL	RoW America	WL	46	1	1								
+HM	HMD	-1	Heard and mc donald islands	Asia		WA	RoW Asia and Pacific	WA	45	0	0		Heard and McDonald Islands (AU)						
+HN	HND	340	Honduras	America	Central America	WL	RoW America	WL	46	1	1								
+HK	HKG	344	"Hong Kong SAR, China"	Asia	Eastern Asia	WA	RoW Asia and Pacific	WA	45	0	0		China: Hong Kong SAR	"China, Hong Kong Special Administrative Region"	"Hong Kong, China"	Hong kong	"China, Hong Kong SAR"		
+HU	HUN	348	Hungary	Europe	Eastern Europe	WE	Europe	HU	14	1	1								
+IS	ISL	352	Iceland	Europe	Northern Europe	WE	RoW Europe	WE	47	1	1								
+IN	IND	356	India	Asia	Southern Asia	WA	Asia and Pacific	IN	35	1	1								
+ID	IDN	360	Indonesia	Asia	South-Eastern Asia	WA	Asia and Pacific	ID	43	1	1								
+IR	IRN	364	"Iran, Islamic Rep."	Asia	Southern Asia	WM	RoW Middle East	WM	49	1	1		"Iran, Islamic Republic of"	Iran (Islamic Republic of)	 Islamic Republic of Iran	Iran			
+IQ	IRQ	368	Iraq	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+IE	IRL	372	Ireland	Europe	Northern Europe	WE	Europe	IE	15	1	1								
+IM	IMY	833	Isle of Man	Europe	Northern Europe	WE	RoW Europe	WE	47	0	0	IMN							
+IL	ISR	376	Israel	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+IT	ITA	380	Italy	Europe	Southern Europe	WE	Europe	IT	16	1	1								
+JM	JAM	388	Jamaica	America	Caribbean	WL	RoW America	WL	46	1	1								
+JP	JPN	392	Japan	Asia	Eastern Asia	WA	Asia and Pacific	JP	30	1	1								
+JO	JOR	400	Jordan	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+KZ	KAZ	398	Kazakhstan	Asia	Central Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+KE	KEN	404	Kenya	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+KI	KIR	296	Kiribati	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	1	1								
+KP	PRK	408	"Korea, democratic people's republic of"	Asia	Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1		Dem. People's Rep. of Korea	Dem. Peoples Rep. of Korea	Dem. People's Rep. of Korea	Democratic People's Republic of Korea	North Korea	"Korea, Dem. Rep. "	D.P.R. of Korea
+	KSV	-1	Kosovo	Europe	Southern Europe	WE	RoW Europe	WE	47	0	1	UVK							
+KW	KWT	414	Kuwait	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+KG	KGZ	417	Kyrgyz Republic	Asia	Central Asia	WA	RoW Asia and Pacific	WA	45	1	1		Kyrgyzstan						
+LA	LAO	418	Lao PDR	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1		Lao People's Democratic Republic	Lao People's Dem. Rep.	Laos	Lao People s Democratic Republic	Lao People's DR		
+LV	LVA	428	Latvia	Europe	Northern Europe	WE	Europe	LV	19	1	1								
+LB	LBN	422	Lebanon	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+LS	LSO	426	Lesotho	Africa	Southern Africa	WF	RoW Africa	WF	48	1	1								
+LR	LBR	430	Liberia	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+LY	LBY	434	Libya	Africa	Northern Africa	WF	RoW Africa	WF	48	1	1		Libyan Arab Jamahiriya						
+LI	LIE	438	Liechtenstein	Europe	Western Europe	WE	RoW Europe	WE	47	1	1								
+LT	LTU	440	Lithuania	Europe	Northern Europe	WE	Europe	LT	17	1	1								
+LU	LUX	442	Luxembourg	Europe	Western Europe	WE	Europe	LU	18	1	1								
+MO	MAC	446	"Macao SAR, China"	Asia	Eastern Asia	WA	RoW Asia and Pacific	WA	45	0	0		China: Macao SAR	"China, Macao Special Administrative Region"	Macau	"China, Macao SAR"			
+MK	MKD	807	"Macedonia, FYR"	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1		The former Yugoslav Republic of Macedonia	Former Yugoslav Republic of Macedonia	"Macedonia, the former yugoslav republic of"	TFYR of Macedonia	The Former Yugoslav Republic of Macedonia	Macedonia	
+MG	MDG	450	Madagascar	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+MW	MWI	454	Malawi	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+MY	MYS	458	Malaysia	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+MV	MDV	462	Maldives	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+ML	MLI	466	Mali	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+MT	MLT	470	Malta	Europe	Southern Europe	WE	Europe	MT	20	1	1								
+MH	MHL	584	Marshall Islands	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	1	1		Marshall Isds						
+MQ	MTQ	474	Martinique	America	Caribbean	WL	RoW America	WL	46	0	0								
+MR	MRT	478	Mauritania	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+MU	MUS	480	Mauritius	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+YT	MYT	175	Mayotte	Africa	Eastern Africa	WF	RoW Africa	WF	48	0	0								
+MX	MEX	484	Mexico	America	Central America	WL	America	MX	36	1	1								
+FM	FSM	583	"Micronesia, Fed. Sts."	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	1	1		Micronesia (Federated States of)	"Micronesia, Federated States of"	FS Micronesia	Micronesia	Micronesia (FS of)		
+MD	MDA	498	Moldova	Europe	Eastern Europe	WE	RoW Europe	WE	47	1	1		Republic of Moldova	"Moldova, republic of"	Rep. of Moldova				
+MC	MCO	492	Monaco	Europe	Western Europe	WE	RoW Europe	WE	47	1	1								
+MN	MNG	496	Mongolia	Asia	Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+ME	MNE	499	Montenegro	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1								
+MS	MSR	500	Montserrat	America	Caribbean	WL	RoW America	WL	46	0	0								
+MA	MAR	504	Morocco	Africa	Northern Africa	WF	RoW Africa	WF	48	1	1								
+MZ	MOZ	508	Mozambique	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+MM	MMR	104	Myanmar	Asia	Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1		Burma						
+NA	NAM	516	Namibia	Africa	Southern Africa	WF	RoW Africa	WF	48	1	1								
+NR	NRU	520	Nauru	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	1	1								
+NP	NPL	524	Nepal	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+NL	NLD	528	Netherlands	Europe	Western Europe	WE	Europe	NL	21	1	1								
+AN	ANT	530	Netherlands Antilles	America		WL	RoW America	WL	46	0	0		Neth. Antilles	Netherlands antilles	Former Netherlands Antilles				
+NC	NCL	540	New Caledonia	Oceania	Melanesia	WP	RoW Asia and Pacific	WA	45	0	0		New caledonia						
+NZ	NZL	554	New Zealand	Oceania	Australia and New Zealand	WP	RoW Asia and Pacific	WA	45	1	1								
+NI	NIC	558	Nicaragua	America	Central America	WL	RoW America	WL	46	1	1								
+NE	NER	562	Niger	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+NG	NGA	566	Nigeria	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+NU	NIU	570	Niue	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0								
+NF	NFK	574	Norfolk Island	Oceania	Australia and New Zealand	WP	RoW Asia and Pacific	WA	45	0	0		Norfolk Isds	Northern mariana islands	Norfolk island				
+MP	MNP	580	Northern Mariana Islands	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	0	0		N. Mariana Isds						
+NO	NOR	578	Norway	Europe	Northern Europe	WE	Europe	NO	42	1	1		"Norway, Svalbard and Jan Mayen"						
+OM	OMN	512	Oman	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+PK	PAK	586	Pakistan	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+PW	PLW	585	Palau	Oceania	Micronesia	WP	RoW Asia and Pacific	WA	45	1	1								
+PS	PAL	275	Palestine	Asia	Western Asia	WM	RoW Middle East	WM	49	0	1		"Palestinian territory, occupied"	Occupied Palestinian Territory	Occ. Palestinian Terr.	Occupied Palestinian Territories	State of Palestine		
+PA	PAN	591	Panama	America	Central America	WL	RoW America	WL	46	1	1								
+PG	PNG	598	Papua New Guinea	Oceania	Melanesia	WP	RoW Asia and Pacific	WA	45	1	1								
+PY	PRY	600	Paraguay	America	South America	WL	RoW America	WL	46	1	1								
+PE	PER	604	Peru	America	South America	WL	RoW America	WL	46	1	1								
+PH	PHL	608	Philippines	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+PN	PCN	612	Pitcairn	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0		Pitcairn Islands						
+PL	POL	616	Poland	Europe	Eastern Europe	WE	Europe	PL	22	1	1								
+PT	PRT	620	Portugal	Europe	Southern Europe	WE	Europe	PT	23	1	1								
+PR	PRI	630	Puerto Rico	America	Caribbean	WL	RoW America	WL	46	0	0								
+QA	QAT	634	Qatar	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+RE	REU	638	Reunion	Africa	Eastern Africa	WF	RoW Africa	WF	48	0	0		Réunion	RÃ©union					
+RO	ROM	642	Romania	Europe	Eastern Europe	WE	Europe	RO	24	1	1	ROU							
+RU	RUS	643	Russia	Europe	Eastern Europe	WE	Europe	RU	37	1	1		Russian Federation						
+RW	RWA	646	Rwanda	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+WS	WSM	882	Samoa	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	1	1								
+SM	SMR	674	San Marino	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1								
+ST	STP	678	Sao Tome and Principe	Africa	Middle Africa	WF	RoW Africa	WF	48	1	1								
+SA	SAU	682	Saudi Arabia	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+SN	SEN	686	Senegal	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+RS	SRB	688	Serbia	Europe	Southern Europe	WE	RoW Europe	WE	47	1	1	SCG	Serbia and Montenegro	Serbia (and Montenegro)					
+SC	SYC	690	Seychelles	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+SL	SLE	694	Sierra Leone	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+SG	SGP	702	Singapore	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+	SXM	534	Sint Maarten (Dutch part)	America	Caribbean	WL	RoW America	WL	46	0	1		Sint Maarten 						
+SK	SVK	703	Slovakia	Europe	Eastern Europe	WE	Europe	SK	27	1	1		Slovakia (slovak republic)	Slovak Republic					
+SI	SVN	705	Slovenia	Europe	Southern Europe	WE	Europe	SI	26	1	1								
+SB	SLB	90	Solomon Islands	Oceania	Melanesia	WP	RoW Asia and Pacific	WA	45	1	1		Solomon Isds						
+SO	SOM	706	Somalia	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+ZA	ZAF	710	South Africa	Africa	Southern Africa	WF	Africa	ZA	44	1	1		Southern African Customs Union						
+GS	SGS	-1	South georgia and the south sandwich is	Antarctica		WA	RoW Asia and Pacific	WA	45	0	0		South georgia and the south sandwich islands	South Georgia and the South Sandwichs Islands (UK)					
+KR	KOR	410	South Korea	Asia	Eastern Asia	WA	Asia and Pacific	KR	33	1	1		"Korea, Republic of"	Korea	Rep. of Korea	Republic of Korea	Korea (Republic of)	"Korea, Rep."	
+	SSD	728	South Sudan	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+ES	ESP	724	Spain	Europe	Southern Europe	WE	Europe	ES	9	1	1								
+LK	LKA	144	Sri Lanka	Asia	Southern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+SH	SHN	654	St. Helena	Africa	Western Africa	WF	RoW Africa	WF	48	0	0		Saint Helena						
+KN	KNA	659	St. Kitts and Nevis	America	Caribbean	WL	RoW America	WL	46	1	1		Saint Kitts and Nevis						
+LC	LCA	662	St. Lucia	America	Caribbean	WL	RoW America	WL	46	1	1		Saint Lucia						
+PM	SPM	666	St. Pierre and Miquelon	America	Northern America	WL	RoW America	WL	46	0	0		St. pierre and miquelon	Saint Pierre and Miquelon					
+VC	VCT	670	St. Vincent and the Grenadines	America	Caribbean	WL	RoW America	WL	46	1	1		Saint Vincent and the Grenadines	Saint Vincent/Grenadines					
+SD	SDN	729	Sudan	Africa	Northern Africa	WF	RoW Africa	WF	48	1	1		Sudan (Former)	Sudan (up to 2011)					
+SR	SUR	740	Suriname	America	South America	WL	RoW America	WL	46	1	1		Republic of Suriname						
+SJ	SJM	744	Svalbard and jan mayen islands	Europe	Northern Europe	WE	RoW Europe	WE	47	0	0								
+SZ	SWZ	748	Swaziland	Africa	Southern Africa	WF	RoW Africa	WF	48	1	1								
+SE	SWE	752	Sweden	Europe	Northern Europe	WE	Europe	SE	25	1	1								
+CH	CHE	756	Switzerland	Europe	Western Europe	WE	Europe	CH	39	1	1		"Switzerland, Liechtenstein"						
+SY	SYR	760	Syrian Arab Republic	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1		Syria						
+TW	TWN	-1	Taiwan	Asia	Eastern Asia	WA	Asia and Pacific	TW	41	0	1		"Taiwan, province of china"	Chinese Taipei					
+TJ	TJK	762	Tajikistan	Asia	Central Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+	EAT	-1	Tanganjika	Africa	Eastern Africa	WF	RoW Africa	WF	48	0	0		United Republic of Tanzania: Mainland	Tanzania - Mainland	U.R. of Tanzania: Mainland				
+TZ	TZA	834	Tanzania	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1		United Republic of Tanzania	"Tanzania, united republic of"	United Rep. of Tanzania	Tanzania (United Republic of)			
+TH	THA	764	Thailand	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+TL	TLS	626	Timor-Leste	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1	TMP	East Timor	Democratic Republic of Timor-Leste					
+TG	TGO	768	Togo	Africa	Western Africa	WF	RoW Africa	WF	48	1	1								
+TK	TKL	772	Tokelau	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0								
+TO	TON	776	Tonga	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	1	1								
+TT	TTO	780	Trinidad and Tobago	America	Caribbean	WL	RoW America	WL	46	1	1								
+TN	TUN	788	Tunisia	Africa	Northern Africa	WF	RoW Africa	WF	48	1	1								
+TR	TUR	792	Turkey	Asia	Western Asia	WM	Middle East	TR	40	1	1								
+TM	TKM	795	Turkmenistan	Asia	Central Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+TC	TCA	796	Turks and Caicos Islands	America	Caribbean	WL	RoW America	WL	46	0	0		Turks and Caicos Isds	Turks and Caicos islands	Turks and caicos islands				
+TV	TUV	798	Tuvalu	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	1	1								
+UG	UGA	800	Uganda	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+UA	UKR	804	Ukraine	Europe	Eastern Europe	WE	RoW Europe	WE	47	1	1								
+AE	ARE	784	United Arab Emirates	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1								
+GB	GBR	826	United Kingdom	Europe	Northern Europe	WE	Europe	GB	28	1	1								
+US	USA	840	United States	America	Northern America	WL	America	US	29	1	1		United States of America	USA	"USA, Puerto Rico and US Virgin Islands"				
+UM	UMI	-1	United states minor outlying islands	Oceania		WP	RoW Asia and Pacific	WA	45	0	0								
+UY	URY	858	Uruguay	America	South America	WL	RoW America	WL	46	1	1								
+UZ	UZB	860	Uzbekistan	Asia	Central Asia	WA	RoW Asia and Pacific	WA	45	1	1								
+VU	VUT	548	Vanuatu	Oceania	Melanesia	WP	RoW Asia and Pacific	WA	45	1	1								
+VA	VAT	336	Vatican city state (holy see)	Europe	Southern Europe	WE	RoW Europe	WE	47	0	1		Holy See	Holy See (Vatican City State)					
+VE	VEN	862	"Venezuela, RB"	America	South America	WL	RoW America	WL	46	1	1		Venezuela (Bolivarian Republic of)	Venezuela					
+VN	VNM	704	Vietnam	Asia	South-Eastern Asia	WA	RoW Asia and Pacific	WA	45	1	1		Viet Nam						
+VG	VGB	92	British Virgin Islands	America	Caribbean	WL	RoW America	WL	46	0	0		Br. Virgin Isds	Virgin islands (british)					
+VI	VIR	850	Virgin islands (u.s.)	America	Caribbean	WL	RoW America	WL	46	0	0		US Virgin Isds	US Virgin Islands	Virgin Islands (U.S.)				
+WF	WLF	876	Wallis and futuna Islands	Oceania	Polynesia	WP	RoW Asia and Pacific	WA	45	0	0		Wallis and Futuna Isds	Wallis and futuna islands	Wallis and Futuna Islands				
+EH	ESH	732	Western sahara	Africa	Northern Africa	WF	RoW Africa	WF	48	0	0		Western Sahara						
+YE	YEM	887	"Yemen, Rep."	Asia	Western Asia	WM	RoW Middle East	WM	49	1	1		Yemen						
+ZM	ZMB	894	Zambia	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
+	EAZ	-1	Zanzibar	Africa	Eastern Africa	WF	RoW Africa	WF	48	0	0		United Republic of Tanzania: Zanzibar	Tanzania - Zanzibar					
+ZW	ZWE	716	Zimbabwe	Africa	Eastern Africa	WF	RoW Africa	WF	48	1	1								
