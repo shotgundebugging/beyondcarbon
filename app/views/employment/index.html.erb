@@ -1,11 +1,11 @@
 <div class="container" style="max-width: 1000px; margin: 1rem auto; padding: 0 1rem;">
   <h1>Employment (sample)</h1>
 
-  <form data-controller="chart">
+  <%= form_with url: employment_index_path, method: :get, data: { controller: "autosubmit", turbo_frame: "chart_frame" } do %>
     <div style="display:flex; gap:1rem; flex-wrap: wrap; align-items: flex-end;">
       <div>
         <label for="region">Region</label><br>
-        <select id="region" name="region" data-chart-target="region" data-action="change->chart#onRegionChange">
+        <select id="region" name="region" value="<%= @region %>" data-action="change->autosubmit#submit">
           <% @regions.each do |reg| %>
             <% label = @country_names[reg] || reg %>
             <option value="<%= reg %>" <%= 'selected' if reg == @region %>><%= label %></option>
@@ -15,7 +15,7 @@
 
       <div>
         <label for="stressor">Stressor</label><br>
-        <select id="stressor" name="stressor" data-chart-target="stressor" data-action="change->chart#render">
+        <select id="stressor" name="stressor" data-action="change->autosubmit#submit">
           <% @stressors.each do |s| %>
             <option value="<%= s %>" <%= 'selected' if s == @stressor %>><%= s %></option>
           <% end %>
@@ -23,27 +23,36 @@
       </div>
 
       <div>
+        <label for="metric">Metric</label><br>
+        <select id="metric" name="metric" data-action="change->autosubmit#submit">
+          <option value="people" <%= 'selected' if @metric == 'people' %>>Employment (people)</option>
+          <option value="share" <%= 'selected' if @metric == 'share' %>>Share of employment (%)</option>
+        </select>
+      </div>
+
+      <div>
         <label for="topn">Top N sectors</label><br>
-        <input type="range" id="topn" name="topn" min="3" max="12" value="8"
-               data-chart-target="topn" data-action="input->chart#render">
-        <span id="topn_value" data-chart-target="topnValue">8</span>
+        <input type="range" id="topn" name="topn" min="3" max="12" value="<%= @topn %>" data-action="input->autosubmit#submit">
+        <span><%= @topn %></span>
       </div>
 
       <div>
         <label for="sort">Sort</label><br>
-        <select id="sort" data-chart-target="sort" data-action="change->chart#render">
-          <option value="desc" selected>Value desc</option>
-          <option value="asc">Value asc</option>
-          <option value="alpha">Sector A→Z</option>
+        <select id="sort" name="sort" data-action="change->autosubmit#submit">
+          <option value="desc" <%= 'selected' if @sort == 'desc' %>>Value desc</option>
+          <option value="asc"  <%= 'selected' if @sort == 'asc' %>>Value asc</option>
+          <option value="alpha" <%= 'selected' if @sort == 'alpha' %>>Sector A→Z</option>
         </select>
       </div>
-
     </div>
+  <% end %>
 
-    <div id="chart" style="margin-top: 1rem;"></div>
-
-    <script type="application/json" id="region-dataset" data-chart-target="dataset">
-      <%= raw @region_dataset.to_json %>
-    </script>
-  </form>
+  <%= turbo_frame_tag "chart_frame" do %>
+    <div>
+      <%= render partial: "chart" %>
+    </div>
+    <div style="margin-top: 1rem; width: 100%;">
+      <%= render partial: "map" %>
+    </div>
+  <% end %>
 </div>

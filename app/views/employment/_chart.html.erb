@@ -1,0 +1,12 @@
+<div data-controller="chart">
+  <div id="chart" data-chart-target="container" style="margin-top: 1rem;"></div>
+
+  <script type="application/json" data-chart-target="dataset">
+    {"title": "<%= j @stressor %> — <%= j @region_label %>",
+     "y_title": "<%= j @y_title %>",
+     "width": 900,
+     "height": 400,
+     "data": <%= raw @chart_data.to_json %> }
+  </script>
+</div>
+
